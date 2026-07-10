@@ -116,17 +116,9 @@ For production, use a production-grade ASGI server:
 gunicorn main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker
 ```
 
-## 📝 License
-
-This project is currently unlicensed. Consider adding a LICENSE file for clarity.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## 📞 Contact
-
-For questions or issues, reach out to the repository owner or open a GitHub issue.
 
 ---
 
